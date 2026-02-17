@@ -164,7 +164,3 @@ Amazon EFS was used as shared persistent storage so that application data remain
 - Designed solution aligned with real enterprise use cases
 
 ---
-
-## 👤 Author
-Your Name  
-AWS | Cloud Computing | DevOps
